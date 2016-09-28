@@ -33,5 +33,8 @@ Update：微软已经发布补丁修复了这一问题，请各位及时安装 W
 注册表下载地址：（部分无法使用百度云的地区请直接通过蓝点网下载服务器节点进行下载）
 
 [百度云](http://pan.baidu.com/s/1o7zrHdK)
+
 [节点](http://xiazai.landiannews.com/files/2016/02/w10_stop_reset_fileasso.zip)
-[本站地址下载地址](\resource\w10_stop_reset_fileasso_2.zip)
+
+[本站下载地址](\resource\w10_stop_reset_fileasso_2.zip)
+
