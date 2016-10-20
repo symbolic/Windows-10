@@ -4,5 +4,5 @@
 
 [MarkdownPad 2安装及注册](/MarkdownPad 2 install/index.md)
 
-[Kmspico激活工具](/kmspico/index.md)
+[Kmspico激活工具](/Kmspico/index.md)
 
