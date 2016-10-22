@@ -1,4 +1,4 @@
-[Windows 10 (Multiple Editions), Version 1607 (Updated Jul 2016) (x64) - DVD (Chinese-Simplified)](ed2k://|file|cn_windows_10_multiple_editions_version_1607_updated_jul_2016_x64_dvd_9056935.iso|4347183104|35EA5DB0F3BB714F5CE0740FB89D82D1|/)
+[Windows 10 Multiple Editions, Version 1607 Updated Jul 2016 x64 - DVD Chinese-Simplified](ed2k://|file|cn_windows_10_multiple_editions_version_1607_updated_jul_2016_x64_dvd_9056935.iso|4347183104|35EA5DB0F3BB714F5CE0740FB89D82D1|/)
 
 文件名：cn_windows_10_multiple_editions_version_1607_updated_jul_2016_x64_dvd_9056935.iso
 
