@@ -6,3 +6,4 @@
 
 [Kmspico激活工具](/Kmspico/index.md)
 
+[资源下载](/resource/index.md)
